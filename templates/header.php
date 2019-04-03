@@ -8,7 +8,7 @@
       background: #cbb09c !important;
     }
     .brand-text {
-      color: #cbb09c;
+      color: #cbb09c !important;
     }
 
     form {
